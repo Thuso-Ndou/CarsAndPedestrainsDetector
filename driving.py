@@ -1,7 +1,7 @@
 import cv2
 
 # our video
-video = cv2.VideoCapture('cars and pedestrains.mp4')
+video = cv2.VideoCapture(0)
 
 # our trained data
 car_trained_data = 'cars.xml'
