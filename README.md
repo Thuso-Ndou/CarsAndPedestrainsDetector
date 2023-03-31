@@ -1,2 +1,2 @@
 # CarsAndPedestrainsDetector
- Python program to detect cars and pedestrains
+ This is a Python program to detect cars and pedestrains
